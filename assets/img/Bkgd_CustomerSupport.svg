@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="755"><defs><linearGradient id="a" x1="27.65%" x2="26.555%" y1="42.584%" y2="67.227%"><stop offset="0%" stop-color="#1A2B52"/><stop offset="100%" stop-color="#2F4B9F"/></linearGradient></defs><path fill="url(#a)" fill-rule="evenodd" transform="matrix(-1 0 0 1 1440 0)" d="M0 81.562l372.184 182.889L1440 0v755H0z"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="755" viewBox="0 0 1440 755">
+  <defs>
+    <linearGradient id="bkgd_customersupport-a" x1="27.65%" x2="26.555%" y1="42.584%" y2="67.227%">
+      <stop offset="0%" stop-color="#1A2B52"/>
+      <stop offset="100%" stop-color="#2F4B9F"/>
+    </linearGradient>
+  </defs>
+  <polygon fill="url(#bkgd_customersupport-a)" fill-rule="evenodd" points="0 81.562 372.184 264.451 1440 0 1440 755 0 755" transform="matrix(-1 0 0 1 1440 0)"/>
+</svg>
